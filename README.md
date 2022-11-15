@@ -6,7 +6,7 @@ Hello, my name is Drew, I am a 15 year Army veteran. My previous experience in t
 ##  Growth Mindset 
 > Self, you need to embrace the growth mindset. The growth mindset is cool!
 
-The <em><strong>growth mindset</strong></em> is <em> a way of thinking and living</em> that keeps you out of your comfort by surrounding yourself with those who challenge and contribute to you. The growth mindset draws on the concept of mindfulness. 
+The <em><strong>growth mindset</strong></em> is <em> a way of thinking and living</em> that keeps you out of your comfort zone, surround yourself with those who challenge and contribute to you. The growth mindset draws on the concept of mindfulness things will not simply fall by the wayside.
 
 
 
