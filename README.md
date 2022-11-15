@@ -19,6 +19,4 @@ The <em><strong>growth mindset</strong></em> is <em> a way of thinking and livin
 
 
 
-
-
 Here is a link to my portfolio https://github.com/AGCortez1
