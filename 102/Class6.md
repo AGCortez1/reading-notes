@@ -1,7 +1,4 @@
-
-## Javascript
-
-*Javascript* lightweight, interpreted, or just in time compiled programming language.
+## Javascript* lightweight, interpreted, or just in time compiled programming language
 
 1 Javascript is not Java programming language, used in many nonbrowser environmnets.The standard for JavaScript language are the ECMAScript Language specification and ECMAScript Internalization APC specifications
 
@@ -19,7 +16,6 @@
 3 any text editor can be used, on windows built in Notepad, Notedpa++
 
 4 Can embed JavaScript inside HTML or put a line in HMTL file to external JS file
-// * <script> opening and </script>
 
 5 Alert function parentheses witht the alert typed inside
 

@@ -23,6 +23,3 @@
  ordered lists, unordered lists,
 
 11. Images can be linked in
-
-12. Titles for links ie My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
- as an example
