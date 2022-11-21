@@ -1,26 +1,34 @@
-## reading-notes
 # Reading Journal for 102
 
-Hello, my name is Drew, I am a 15 year Army veteran. My previous experience in this field started with site exploitaion that resulted in digital forensics tasks. 
+Hello, my name is Drew, I am a 15 year Army veteran. My previous experience in this field started with site exploitaion that resulted in digital forensics tasks.
 
-##  Growth Mindset 
-> Self, you need to embrace the growth mindset. The growth mindset is cool!
+## Table of Contents
 
-The <em><strong>growth mindset</strong></em> is <em> a way of thinking and living</em> that keeps you out of your comfort zone, surround yourself with those who challenge and contribute to you. The growth mindset draws on the concept of mindfulness things will not simply fall by the wayside.
+### 102 Notes
 
+* [Class 1 Notes](102/Class1.md)
+* [Class 2 Notes](102/Class2.md)
+* [Class 3 Notes](102/Class3.md)
+* [Class 4 Notes](102/Class4.md)
+* [Class 5 Notes](102/Class5.md)
+* [Class 6 Notes](102/Class6.md)
+* [Class 7 Notes](102/Class7.md)
+* [Class 8 Notes](102/Class8.md)
 
+### 201 Notes
 
-## 3 Reminders to stay in a growth mindset
-
-<ol>
-  <li>Embrace Challenges<li>
-  Persist despite obtsacles being present<li>
-  Learn from criticisms
-  </ol>
-
-
-
-![Growth Mindset](https://epe.brightspotcdn.com/dims4/default/53d5f6c/2147483647/strip/true/crop/2034x1380+28+0/resize/840x570!/format/webp/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2Ffe%2F07%2F623f04754f06aff6f4b323fcedc9%2Fgrowth-mindset-042021-1185654371.jpg)
-
-
-Here is a link to my portfolio https://agcortez1.github.io/reading-notes/
+* [Class 1 Notes](201/Class1.md)
+* [Class 2 Notes](201/Class2.md)
+* [Class 3 Notes](201/Class3.md)
+* [Class 4 Notes](201/Class4.md)
+* [Class 5 Notes](201/Class5.md)
+* [Class 6 Notes](201/Class6.md)
+* [Class 7 Notes](201/Class7.md)
+* [Class 8 Notes](201/Class8.md)
+* [Class 9 Notes](201/Class9.md)
+* [Class 10 Notes](201/Class10.md)
+* [Class 11 Notes](201/Class11.md)
+* [Class 12 Notes](201/Class12.md)
+* [Class 13 Notes](201/Class13.md)
+* [Class 14 Notes](201/Class14.md)
+* [Class 15 Notes](201/Class15.md)
