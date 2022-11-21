@@ -19,7 +19,7 @@
 3 any text editor can be used, on windows built in Notepad, Notedpa++
 
 4 Can embed JavaScript inside HTML or put a line in HMTL file to external JS file
-* <script> opening and </script>
+// * <script> opening and </script>
 
 5 Alert function parentheses witht the alert typed inside
 
